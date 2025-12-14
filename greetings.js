@@ -4,14 +4,15 @@ let hello = [
 	"₊⋆｡𖦹°⭒˚｡⋆ Hi ",
 	"₊⋆｡𖦹°⭒˚｡⋆ Haiii "
 ];
+//for hi
 let helloMsg = [
 	", glad to see you! ⋆｡𖦹°⭒˚｡⋆₊",
 	", it's you again! ⋆｡𖦹°⭒˚｡⋆₊",
 	", you look so cute today! ⋆｡𖦹°⭒˚｡⋆₊"
 ];
-let remember = "ra - ranger, n - nvim, lss - ls -a, cb - cd ..";
+//for message
 let sumb = "₊✿";
-
+//for symbols line
 let gayCat = [
 `
 ⠀⠀⠀⠀⠀⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -55,6 +56,7 @@ let gayCat = [
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⠻⠶⠿⠿⠷⠷⠿⠿⠾⠶⠶⠶⠶⠿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 `
 ];
+//for arts
 
 let rG = Math.floor(Math.random() * gayCat.length);
 let rH = Math.floor(Math.random() * hello.length);
