@@ -1,5 +1,5 @@
 # terminal-greet
-Script on JavaSkript, that makes greet message in terminal when you open it!
+Script on JavaScript, that makes greet message in terminal when you open it!
 
 Just type in your bash/zsh config: 
 
