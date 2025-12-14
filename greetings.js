@@ -79,7 +79,7 @@ function sumbLine() {
 let magnetta = '\x1b[36m';
 let end = '\x1b[0m';
 
-console.log (remember, magnetta, rGayCat, sumbLine() + "₊",`
+console.log (magnetta, rGayCat, sumbLine() + "₊",`
 `, rHello + userInfo().username + rHelloMsg, `
 `, sumbLine() + "₊", end);
 
